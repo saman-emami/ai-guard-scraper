@@ -1,0 +1,5 @@
+torch>=2.6.0
+playwright>=1.54.0
+readability-lxml>=0.8.4.1
+transformers>=4.54.0
+beautifulsoup4>=4.13.4
